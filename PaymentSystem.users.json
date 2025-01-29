@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "66be25acc7e0ed5a0cbebf16"
+  },
+  "role": "user",
+  "fullName": "test",
+  "phoneNumber": "1234567890",
+  "email": "test@test.com",
+  "password": "$2b$10$b4l42/syvHwxNAXg2dU2dO5jnO/mIEJ6FfaVD7FjKmFOkLg71IMMO",
+  "bio": "",
+  "serialNumber": "958.35.948",
+  "consumerId": "17159589352889693",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bee803170a720bd227d143"
+  },
+  "role": "user",
+  "fullName": "Saumya Man Shrestha",
+  "phoneNumber": "9840777987",
+  "email": "saumyamanshrestha@gmail.com",
+  "password": "$2b$10$Hd2vnF/JS854APuJSku20.gKij1TQ5.SubVFuZ/dZF4IXSo7FzIs.",
+  "bio": "",
+  "serialNumber": "787.67.919",
+  "consumerId": "17237872677872602",
+  "__v": 0
+}]

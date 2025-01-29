@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6646e1f7191878616dd887b2"
+  },
+  "userId": "66bee803170a720bd227d143",
+  "serialNumber": "787.67.919",
+  "consumerId": "17237872677872602",
+  "serviceCharge": 50,
+  "totalAmount": 2500,
+  "penalty": 150,
+  "location": "Baneshowr",
+  "year": 2024,
+  "month": "June",
+  "status": "Penalty"
+},
+{
+  "_id": {
+    "$oid": "6646e283191878616dd887b3"
+  },
+  "userId": "66bee803170a720bd227d143",
+  "serialNumber": "787.67.919",
+  "consumerId": "172378726778726023",
+  "serviceCharge": 50,
+  "totalAmount": 3500,
+  "penalty": 0,
+  "location": "Baneshowr",
+  "year": 2024,
+  "month": "July",
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "6646e2a7191878616dd887b4"
+  },
+  "userId": "66bee803170a720bd227d143",
+  "serialNumber": "787.67.919",
+  "consumerId": "17237872677872602",
+  "serviceCharge": 50,
+  "totalAmount": 3000,
+  "penalty": 0,
+  "location": "Baneshowr",
+  "year": 2024,
+  "month": "August",
+  "status": "Pending"
+}]
